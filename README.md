@@ -1,2 +1,2 @@
 # Image_classifier
-Image clssifier with machine learning
+Image clssifier with streamlit
